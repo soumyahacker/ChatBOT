@@ -29,7 +29,7 @@ This repository contains the code for a simple chatbot built using TensorFlow an
 3. Type 'quit' to exit the conversation.
 
 ## Author
-- Soumyapriya Goswami (GitHub: [soumyapriya-coder](https://github.com/soumyapriya-coder))
+- Soumyapriya Goswami (GitHub: [soumyahacker](https://github.com/soumyahacker))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
