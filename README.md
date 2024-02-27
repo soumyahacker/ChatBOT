@@ -11,9 +11,8 @@ This repository contains the code for a simple chatbot built using TensorFlow an
 
 ## Setup
 1. Install required libraries: `pip install -r requirements.txt`
-2. Run `python data_preparation.py` to preprocess the training data.
-3. Run `python neural_network.py` to train the chatbot model.
-4. Interact with the chatbot using `python chatbot_interactive.py`.
+2. Run `python data_preparation.py` to preprocess the training data
+3. Interact with the chatbot using `python chatbot_interactive.py`.
 
 ## Files
 - **data_preparation.py:** Preprocesses the training data and saves necessary information (words, classes) using pickle.
